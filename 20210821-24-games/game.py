@@ -1,5 +1,6 @@
 """
 24 - Games
+
 Sample initial state:
  - result: 0
  - answer: ''
